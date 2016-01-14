@@ -14,6 +14,7 @@
 @property(strong,nonatomic)UIButton *myButton;
 @property(strong,nonatomic)UILabel *label;
 @property(strong,nonatomic)UIButton *gdButton;
+@property(strong,nonatomic)UILabel *gdLebel;
 @end
 
 @implementation AppDelegate
