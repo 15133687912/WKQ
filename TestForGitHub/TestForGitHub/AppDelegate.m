@@ -12,6 +12,7 @@
 
 @property(strong,nonatomic)UILabel *myLabel;
 @property(strong,nonatomic)UIButton *myButton;
+@property(strong,nonatomic)UILabel *label;
 @end
 
 @implementation AppDelegate
